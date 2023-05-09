@@ -58,14 +58,12 @@ img{
 
 
 .ozellikler{
-  padding-top: 1%; 
-  
+  padding-top: 3%;   
 }
 
 .ozellikler img{
   display: inline-block;
-  width: 40%;
-  
+  width: 40%;  
 }
 
 .ozellikler div div{
